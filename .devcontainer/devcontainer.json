@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/vscode-remote/devcontainer.json or this file's README at:
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.106.0/containers/docker-in-docker
 {
-	"name": "Docker in Docker",
+	"name": "AWS-SAM",
 	"dockerFile": "Dockerfile",
 	"mounts": [
 		"source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind",
